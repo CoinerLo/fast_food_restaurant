@@ -1,0 +1,30 @@
+.header_logo {
+  display: flex;
+  justify-content: center;
+}
+
+.header_box {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header_logo span {
+  display: inline-block;
+  width: 14px;
+  height: 17px;
+  background-color: #E4002B;
+}
+
+.header_logo span+span {
+  margin-left: 14px;
+}
+
+.header_logo span span {}
+
+.header_button {
+  margin: 16px 22px 19px 10px;
+}
+
+.ml-4 {
+  margin-left: 4px;
+}

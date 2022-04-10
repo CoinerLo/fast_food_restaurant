@@ -1,0 +1,22 @@
+.footer_logo {
+  display: flex;
+  justify-content: center;
+}
+
+.footer_logo span {
+  display: inline-block;
+  width: 32px;
+  height: 72px;
+  background-color: #E4002B;
+}
+
+.footer_logo span+span {
+  margin-left: 32px;
+}
+
+.ellipse {
+  width: 227px;
+  height: 227px;
+  border-radius: 50%;
+  background-color: #C4C4C4;
+}
